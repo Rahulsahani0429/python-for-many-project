@@ -1,0 +1,11 @@
+que=[]
+print(' enter the element for the queue')
+que.append(12)
+que.append(32)
+que.append(21)
+que.append('rahul')
+que.append('banana')
+print("fill the queue:",que)
+print('pop the element form the queue')
+a=que.pop()
+print(a)
