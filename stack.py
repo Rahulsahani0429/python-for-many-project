@@ -1,0 +1,17 @@
+my_stack=[]
+print("take element for the stack")
+my_stack.append(19)
+my_stack.append(23)
+my_stack.append(33)
+my_stack.append(45)
+print(my_stack)
+print("element pop form the stack")
+my_stack.pop()
+print(my_stack)
+print(my_stack.pop())
+print(my_stack.pop())
+my_stack.pop()
+print("after element is poped")
+print(my_stack)
+print(my_stack.pop())
+
